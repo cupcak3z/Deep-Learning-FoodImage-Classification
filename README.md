@@ -1,4 +1,4 @@
-# Deep-Learning-FoodImage-Classification
+# Food Image Classification Using Convolutional Neural Network
 
 ## Problem
 The classification of food images is a significant challenge within the domain of computer vision and deep learning. This is driven by the growing demand for automation and precision in food-related industries such as health, nutrition, retail, and hospitality.  The ability to accurately classify food or food images can enable applications like calorie estimations, dietary tracking, automated menu recommendations, and even food waste management.
